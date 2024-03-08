@@ -1,6 +1,6 @@
 # Playwright example for Stackblitz
 
-[![Open](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/~/github.com/Inzhenerka/playwright-example)
+[![Open](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/~/github.com/Inzhenerka/playwright-start)
 
 Connection to browserless/chrome deployed to Heroku is specified in `playwright.config.js` file.
 
